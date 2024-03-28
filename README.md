@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lightraptor</h1>
 <h3 align="center">A passionate frontend developer and IoT developer in Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightraptor2310&label=Profile%20views&color=0e75b6&style=flat" alt="lightraptor2310" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightraptor&label=Profile%20views&color=0e75b6&style=flat" alt="lightraptor" /> </p>
 
 - 🌱 I’m currently learning **TypeScript, React**
 
